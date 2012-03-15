@@ -1,0 +1,10 @@
+.btn {
+	font-weight: bold;	
+}
+.floatr, .btn-top-right {
+	float:right;
+}
+
+.well {
+	padding: 15px;
+}
